@@ -24,7 +24,7 @@ class Program
 
                 else
              {
-                Console.WriteLine("you guessed it!");
+                Console.WriteLine("you guessed it! ");
              }
          }
     }
